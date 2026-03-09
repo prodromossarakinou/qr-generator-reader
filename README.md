@@ -42,3 +42,29 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+## 100 Days Challenge
+
+This project is part of a [100 Days Challenge](https://github.com/prodromossarakinou/taverna-prodromes).
+
+- **Current Progress**: 2/100 days
+- **Days Spent Here**: 2 days
+
+### Challenge Model
+
+- **Duration**: 100 consecutive days
+- **Rule**: Every day must produce measurable, documented progress.
+
+**Valid daily progress includes:**
+- Feature delivery
+- Bug fixes
+- Refactors with behavioral impact
+- UI/UX improvements
+- Build and dependency stabilization
+- Architecture and infrastructure work
+- Printing / device integrations
+- Performance improvements
+- Documentation and runbooks
+- Sprint and progress records
+
+*Progress must be commit-backed and logged.*
